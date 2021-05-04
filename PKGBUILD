@@ -1,7 +1,7 @@
 # Maintainer: Nikos Toutountzoglou <nikos.toutou@gmail.com>
 
 pkgbase=linux-lts54
-pkgver=5.4.115
+pkgver=5.4.116
 pkgrel=1
 pkgdesc='LTS 5.4 Linux'
 url="https://www.kernel.org/"
