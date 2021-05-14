@@ -1,5 +1,5 @@
 # linux-lts54
-Custom Linux kernel 5.4.118 LTS for Arch Linux
+Custom Linux kernel 5.4.119 LTS for Arch Linux
 This package will create kernel, kernel-headers and kernel-docs
 
 Usage:
